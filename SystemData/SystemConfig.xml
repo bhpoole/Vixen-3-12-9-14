@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SystemConfig version="16">
+  <Identity>752f1c38-78a4-4ba3-98a9-d544fe9117ff</Identity>
+  <AllowFilterEvaluation>true</AllowFilterEvaluation>
+  <DefaultUpdateInterval>50</DefaultUpdateInterval>
+  <Channels>
+    <Channel id="aa76ef0d-d864-46f0-9da5-d3eb91baca91" name="Mini_Tree_01" />
+    <Channel id="2408874c-e93d-493d-845f-fd009e8f9d9d" name="Mini_Tree_02" />
+    <Channel id="673c8590-604b-4285-8ced-93b742db6a35" name="Mini_Tree_03" />
+    <Channel id="36ae3805-0983-45bb-b729-52f7a8217ab0" name="Mini_Tree_04" />
+    <Channel id="939e3e4a-5516-4ee3-94a8-4c6c074e3b0b" name="Mini_Tree_05" />
+    <Channel id="e8d797dd-3b6e-49d6-8060-052b144f59b4" name="Mini_Tree_06" />
+    <Channel id="6ddfc8d2-e3f2-49c6-a9cd-f1a12a73ac84" name="Mini_Tree_07" />
+    <Channel id="29ac6056-3aae-48de-8ddb-ec658e5ea542" name="Mini_Tree_08" />
+  </Channels>
+  <Nodes>
+    <Node name="Mini_Tree_01" id="e8b36606-35fd-4c48-8058-98d4b227a4e3" channelId="aa76ef0d-d864-46f0-9da5-d3eb91baca91">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="96959864-94a9-41a9-a0a9-9c03e20c6abc" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_02" id="27bb5f98-da30-4140-b157-afd403ab7a8e" channelId="2408874c-e93d-493d-845f-fd009e8f9d9d">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="c0654baa-b2bd-4887-b6fc-9ec6d301d73d" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_03" id="e282d168-a025-47f3-b832-ddd5dc55b005" channelId="673c8590-604b-4285-8ced-93b742db6a35">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="50107d92-eca1-4b58-a6de-780f656b8fe5" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_04" id="dbc08179-88a0-4ac5-a801-aa945eeab973" channelId="36ae3805-0983-45bb-b729-52f7a8217ab0">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="8127e8f9-8671-4ef4-bc93-431c7fdd74c0" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_05" id="65918e5d-8ae9-4220-99c3-f3a7c8292588" channelId="939e3e4a-5516-4ee3-94a8-4c6c074e3b0b">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="914b26b2-72ed-4c0b-97f2-824905861a7c" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_06" id="61fee639-2b4f-48a9-95bb-0b54ea5c174a" channelId="e8d797dd-3b6e-49d6-8060-052b144f59b4">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="3faf9bc2-2e5f-4b31-b3e7-aa7f9774055a" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_07" id="af804c8a-06d7-4db2-a033-6e7768cdc856" channelId="6ddfc8d2-e3f2-49c6-a9cd-f1a12a73ac84">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="b836f086-1d05-4154-9abb-3abc21ddf4c4" />
+      </Properties>
+    </Node>
+    <Node name="Mini_Tree_08" id="8acf1c4a-58bf-4ca3-8190-24b4f6108418" channelId="29ac6056-3aae-48de-8ddb-ec658e5ea542">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="c5dc7d6e-97c1-456c-9f00-cd91a73e6cac" />
+      </Properties>
+    </Node>
+  </Nodes>
+  <Controllers>
+    <Controller name="Generic_Serial_COM8" hardwareId="d22c9233-16e9-4008-a215-e577f78a7a2e" hardwareInstanceId="b20ad554-7585-442e-88ec-6fdfeaee2ecb" id="8ef24283-1bbb-4645-ac15-c9a00e9f18da">
+      <Outputs>
+        <Output name="Output 1" id="b116585e-8f7c-457a-9e3f-f2a501986c4e" />
+        <Output name="Output 2" id="821a7d5a-df54-4ee9-8364-7e3fc1ab6192" />
+        <Output name="Output 3" id="0e41c0cd-2223-47fc-aa9f-89fbef8bf0e6" />
+        <Output name="Output 4" id="af237d9c-8f4a-4ddf-b970-dad2afb04eb6" />
+        <Output name="Output 5" id="66ed8e2d-a94b-4365-9598-fa9828577f2f" />
+        <Output name="Output 6" id="bda91075-2867-44c1-8c4f-1d0c9684c90f" />
+        <Output name="Output 7" id="368a963b-611c-4298-a7de-3f035572a52e" />
+        <Output name="Output 8" id="72f9907a-eeae-4cdd-a5a5-256ae8951520" />
+      </Outputs>
+    </Controller>
+    <Controller name="Dummy Lighting (for testing)" hardwareId="b6ee6308-189c-4268-8996-32a4bab8ab5f" hardwareInstanceId="40e4a26b-de0f-47d1-8ab8-f267fdebd381" id="938ccd5c-59e2-4d1a-8eb6-c1aa64a1c425">
+      <Outputs />
+    </Controller>
+  </Controllers>
+  <ControllerLinks />
+  <SmartControllers />
+  <Previews />
+  <Filters />
+  <Patches>
+    <Patch componentId="b116585e-8f7c-457a-9e3f-f2a501986c4e" sourceId="aa76ef0d-d864-46f0-9da5-d3eb91baca91" output="0" />
+    <Patch componentId="821a7d5a-df54-4ee9-8364-7e3fc1ab6192" sourceId="2408874c-e93d-493d-845f-fd009e8f9d9d" output="0" />
+    <Patch componentId="0e41c0cd-2223-47fc-aa9f-89fbef8bf0e6" sourceId="673c8590-604b-4285-8ced-93b742db6a35" output="0" />
+    <Patch componentId="af237d9c-8f4a-4ddf-b970-dad2afb04eb6" sourceId="36ae3805-0983-45bb-b729-52f7a8217ab0" output="0" />
+    <Patch componentId="66ed8e2d-a94b-4365-9598-fa9828577f2f" sourceId="939e3e4a-5516-4ee3-94a8-4c6c074e3b0b" output="0" />
+    <Patch componentId="bda91075-2867-44c1-8c4f-1d0c9684c90f" sourceId="e8d797dd-3b6e-49d6-8060-052b144f59b4" output="0" />
+    <Patch componentId="368a963b-611c-4298-a7de-3f035572a52e" sourceId="6ddfc8d2-e3f2-49c6-a9cd-f1a12a73ac84" output="0" />
+    <Patch componentId="72f9907a-eeae-4cdd-a5a5-256ae8951520" sourceId="29ac6056-3aae-48de-8ddb-ec658e5ea542" output="0" />
+  </Patches>
+  <DisabledDevices />
+</SystemConfig>
