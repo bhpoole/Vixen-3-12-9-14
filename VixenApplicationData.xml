@@ -42,6 +42,10 @@
       <xPositionProportion>0.6333333333333333</xPositionProportion>
       <yPosition>341</yPosition>
     </FilterPosition>
+    <FilterPosition FilterId="937f72ff-3ba0-4260-a525-8a32167c6d3c">
+      <xPositionProportion>0.4934782608695652</xPositionProportion>
+      <yPosition>385</yPosition>
+    </FilterPosition>
   </FilterShapePositions>
   <FilterSetupFormHighQualityRendering value="false" />
 </VixenApplicationData>
