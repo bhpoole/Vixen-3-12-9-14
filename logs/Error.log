@@ -1,0 +1,24 @@
+11/30/2014 22:51:55 [VersionControl.Module] File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+11/30/2014 22:51:57 [VersionControl.Module] File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+11/30/2014 22:51:59 [VersionControl.Module] File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+11/30/2014 22:52:01 [VersionControl.Module] File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
