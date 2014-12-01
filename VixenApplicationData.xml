@@ -2,8 +2,46 @@
 <VixenApplicationData>
   <DataFormatVersion>3</DataFormatVersion>
   <RecentSequences>
+    <SequenceFile>C:\Users\Bryan.Poole\Documents\Vixen 3\Sequence\My_Christmas_Lights_2014.tim</SequenceFile>
     <SequenceFile></SequenceFile>
   </RecentSequences>
-  <FilterShapePositions />
+  <FilterShapePositions>
+    <FilterPosition FilterId="7c0c124d-bcff-4154-84cc-0071b6f38115">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>132</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="6459b045-1644-410e-9135-0b8eb1c7be00">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>182</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="884bd7d7-e56b-455b-8415-b8c90c1c5c3b">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>232</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="4adb1dee-5b65-48f9-9683-96d8a4836157">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>282</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="9f26c460-5134-41ad-91a1-2c7d96f21dd9">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>332</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="27dae8e8-fadb-4dcf-8ebd-b733d67d4e23">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>382</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="98ec669c-8e27-4730-81f3-39d0656aa8cc">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>432</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="59939e2f-10da-4605-acf4-959313813fa0">
+      <xPositionProportion>0.5</xPositionProportion>
+      <yPosition>482</yPosition>
+    </FilterPosition>
+    <FilterPosition FilterId="5c230bfb-4541-4263-bece-fc85e240309c">
+      <xPositionProportion>0.6333333333333333</xPositionProportion>
+      <yPosition>341</yPosition>
+    </FilterPosition>
+  </FilterShapePositions>
   <FilterSetupFormHighQualityRendering value="false" />
 </VixenApplicationData>
