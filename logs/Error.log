@@ -22,3 +22,7 @@ Parameter name: path
    at GitSharp.Index.Delete(String[] paths)
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Delete(String[] paths)
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+11/30/2014 22:52:21 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
